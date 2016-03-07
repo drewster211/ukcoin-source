@@ -1,7 +1,7 @@
 UKCoin integration/staging tree
 ================================
 
-http://www.ukcoin.org
+http://www.ukcoin.co.uk
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 UKCoin Developers
@@ -19,7 +19,7 @@ The rest is the same as Bitcoin.
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the UKCoin client sofware, see http://www.ukcoin.org.
+the UKCoin client sofware, see http://www.ukcoin.co.uk.
 
 License
 -------
